@@ -2,6 +2,7 @@
 
 1)Copyeditors check, correct this one. Blablabla tralala
 2)After the copyeditors Irini check's the files for small things.(BNP, questions etc)
+3) The authors proofread.
 
 This entry was prepared by Fred Jenkins and published on **1 October 2009**.
 
