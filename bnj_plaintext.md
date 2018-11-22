@@ -1,6 +1,10 @@
 ## Publication statement
+
+1)Copyeditors check, correct this one. Blablabla tralala
+2)After the copyeditors Irini check's the files for small things.(BNP, questions etc)
+
 This entry was prepared by Fred Jenkins and published on **1 October 2009**.
-Copyeditors check, correct this one. Blablabla tralala
+
 ## Historian
 historian | metadata
 ----- | -----
